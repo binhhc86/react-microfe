@@ -5,11 +5,11 @@ on:
     branches:
       - main
     paths:
-      - "react-microfe/container/**"
+      - 'container/**'
 
 defaults:
   run:
-    working-directory: react-microfe/container
+    working-directory: container
 
 jobs:
   build:
