@@ -1,0 +1,12 @@
+auth/node_modules/
+auth/package-lock.json
+auth/dist/
+container/node_modules/
+container/package-lock.json
+container/dist/
+dashboard/node_modules/
+dashboard/package-lock.json
+dashboard/dist/
+marketing/node_modules/
+marketing/package-lock.json
+marketing/dist/
