@@ -10,3 +10,4 @@ dashboard/dist/
 marketing/node_modules/
 marketing/package-lock.json
 marketing/dist/
+.ignoreme
